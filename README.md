@@ -40,26 +40,31 @@ To run this project locally, follow these steps:
     ```bash
     composer install
     ```
+4. Copy the .env.example file to .env and configure your environment variables, including database settings:
 
-4. Run database migrations:
+    ```bash
+    cp .env.example .env
+    ```
+
+5. Run database migrations:
 
     ```bash
     php artisan migrate
     ```
 
-5. Seed the database with sample data:
+6. Seed the database with sample data:
 
     ```bash
     php artisan db:seed
     ```
 
-6. Run the Laravel development server:
+7. Run the Laravel development server:
 
     ```bash
     php artisan serve
     ```
 
-7. Open your web browser and go to:
+8. Open your web browser and go to:
 
     [http://127.0.0.1:8000/posts]
 
