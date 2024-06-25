@@ -1,4 +1,4 @@
-# Laravel CRUD Application with Livewire, Intervention Image, Laravel Collective, and Toastr
+# Laravel CRUD Application with Livewire
 
 Welcome to the README file for your Laravel CRUD application! This project provides a simple CRUD interface to manage posts, utilizing Laravel framework along with Livewire, Intervention Image, Laravel Collective, and Toastr.
 
